@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Joswin\\Downloads\\HMS_Proj\\HMS_Frontend\\hms_frontend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Joswin\\Downloads\\HMS_Proj\\HMS_Frontend\\hms_frontend\\src\\pages\\Billing.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\Billing.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Joswin\\Downloads\\HMS_Proj\\HMS_Frontend\\hms_frontend\\src\\pages\\AddAppointment.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\AddAppointment.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Joswin\\Downloads\\HMS_Proj\\HMS_Frontend\\hms_frontend\\src\\pages\\Login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\Login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Joswin\\Downloads\\HMS_Proj\\HMS_Frontend\\hms_frontend\\src\\pages\\Patients.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\Patients.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Joswin\\Downloads\\HMS_Proj\\HMS_Frontend\\hms_frontend\\src\\pages\\Appointments.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\Appointments.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Joswin\\Downloads\\HMS_Proj\\HMS_Frontend\\hms_frontend\\src\\pages\\AddBill.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\AddBill.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Joswin\\Downloads\\HMS_Proj\\HMS_Frontend\\hms_frontend\\src\\pages\\Doctors.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\Doctors.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Joswin\\Downloads\\HMS_Proj\\HMS_Frontend\\hms_frontend\\src\\pages\\AddDoctor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\AddDoctor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Joswin\\Downloads\\HMS_Proj\\HMS_Frontend\\hms_frontend\\src\\api\\axiosConfig.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\api\\axiosConfig.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Joswin\\Downloads\\HMS_Proj\\HMS_Frontend\\hms_frontend\\src\\pages\\Dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\Dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Joswin\\Downloads\\HMS_Proj\\HMS_Frontend\\hms_frontend\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Joswin\\Downloads\\HMS_Proj\\HMS_Frontend\\hms_frontend\\src\\pages\\Profile.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\Profile.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Joswin\\Downloads\\HMS_Proj\\HMS_Frontend\\hms_frontend\\src\\pages\\AddPatient.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\AddPatient.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "axiosConfig.js",
+              "DocumentMoniker": "C:\\Users\\Joswin\\Downloads\\HMS_Proj\\HMS_Frontend\\hms_frontend\\src\\api\\axiosConfig.js",
+              "RelativeDocumentMoniker": "src\\api\\axiosConfig.js",
+              "ToolTip": "C:\\Users\\Joswin\\Downloads\\HMS_Proj\\HMS_Frontend\\hms_frontend\\src\\api\\axiosConfig.js",
+              "RelativeToolTip": "src\\api\\axiosConfig.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-12T18:15:37.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dashboard.js",
+              "DocumentMoniker": "C:\\Users\\Joswin\\Downloads\\HMS_Proj\\HMS_Frontend\\hms_frontend\\src\\pages\\Dashboard.js",
+              "RelativeDocumentMoniker": "src\\pages\\Dashboard.js",
+              "ToolTip": "C:\\Users\\Joswin\\Downloads\\HMS_Proj\\HMS_Frontend\\hms_frontend\\src\\pages\\Dashboard.js",
+              "RelativeToolTip": "src\\pages\\Dashboard.js",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAowGQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-12T18:07:09.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\Users\\Joswin\\Downloads\\HMS_Proj\\HMS_Frontend\\hms_frontend\\src\\App.js",
+              "RelativeDocumentMoniker": "src\\App.js",
+              "ToolTip": "C:\\Users\\Joswin\\Downloads\\HMS_Proj\\HMS_Frontend\\hms_frontend\\src\\App.js",
+              "RelativeToolTip": "src\\App.js",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAowGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-12T18:06:07.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Billing.js",
+              "DocumentMoniker": "C:\\Users\\Joswin\\Downloads\\HMS_Proj\\HMS_Frontend\\hms_frontend\\src\\pages\\Billing.js",
+              "RelativeDocumentMoniker": "src\\pages\\Billing.js",
+              "ToolTip": "C:\\Users\\Joswin\\Downloads\\HMS_Proj\\HMS_Frontend\\hms_frontend\\src\\pages\\Billing.js",
+              "RelativeToolTip": "src\\pages\\Billing.js",
+              "ViewState": "AgIAAPsBAAAAAAAAAAAowBUCAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-12T18:04:28.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddBill.js",
+              "DocumentMoniker": "C:\\Users\\Joswin\\Downloads\\HMS_Proj\\HMS_Frontend\\hms_frontend\\src\\pages\\AddBill.js",
+              "RelativeDocumentMoniker": "src\\pages\\AddBill.js",
+              "ToolTip": "C:\\Users\\Joswin\\Downloads\\HMS_Proj\\HMS_Frontend\\hms_frontend\\src\\pages\\AddBill.js",
+              "RelativeToolTip": "src\\pages\\AddBill.js",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAowLUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-12T18:03:40.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddDoctor.js",
+              "DocumentMoniker": "C:\\Users\\Joswin\\Downloads\\HMS_Proj\\HMS_Frontend\\hms_frontend\\src\\pages\\AddDoctor.js",
+              "RelativeDocumentMoniker": "src\\pages\\AddDoctor.js",
+              "ToolTip": "C:\\Users\\Joswin\\Downloads\\HMS_Proj\\HMS_Frontend\\hms_frontend\\src\\pages\\AddDoctor.js",
+              "RelativeToolTip": "src\\pages\\AddDoctor.js",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAowMkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-12T18:00:18.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.js",
+              "DocumentMoniker": "C:\\Users\\Joswin\\Downloads\\HMS_Proj\\HMS_Frontend\\hms_frontend\\src\\pages\\Login.js",
+              "RelativeDocumentMoniker": "src\\pages\\Login.js",
+              "ToolTip": "C:\\Users\\Joswin\\Downloads\\HMS_Proj\\HMS_Frontend\\hms_frontend\\src\\pages\\Login.js",
+              "RelativeToolTip": "src\\pages\\Login.js",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAowLMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-12T17:58:55.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Patients.js",
+              "DocumentMoniker": "C:\\Users\\Joswin\\Downloads\\HMS_Proj\\HMS_Frontend\\hms_frontend\\src\\pages\\Patients.js",
+              "RelativeDocumentMoniker": "src\\pages\\Patients.js",
+              "ToolTip": "C:\\Users\\Joswin\\Downloads\\HMS_Proj\\HMS_Frontend\\hms_frontend\\src\\pages\\Patients.js",
+              "RelativeToolTip": "src\\pages\\Patients.js",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAowAoBAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-12T17:59:23.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Doctors.js",
+              "DocumentMoniker": "C:\\Users\\Joswin\\Downloads\\HMS_Proj\\HMS_Frontend\\hms_frontend\\src\\pages\\Doctors.js",
+              "RelativeDocumentMoniker": "src\\pages\\Doctors.js",
+              "ToolTip": "C:\\Users\\Joswin\\Downloads\\HMS_Proj\\HMS_Frontend\\hms_frontend\\src\\pages\\Doctors.js",
+              "RelativeToolTip": "src\\pages\\Doctors.js",
+              "ViewState": "AgIAANsAAAAAAAAAAAAowOkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-12T18:00:00.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Appointments.js",
+              "DocumentMoniker": "C:\\Users\\Joswin\\Downloads\\HMS_Proj\\HMS_Frontend\\hms_frontend\\src\\pages\\Appointments.js",
+              "RelativeDocumentMoniker": "src\\pages\\Appointments.js",
+              "ToolTip": "C:\\Users\\Joswin\\Downloads\\HMS_Proj\\HMS_Frontend\\hms_frontend\\src\\pages\\Appointments.js",
+              "RelativeToolTip": "src\\pages\\Appointments.js",
+              "ViewState": "AgIAAD4BAAAAAAAAAAAowFgBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-12T18:00:40.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddAppointment.js",
+              "DocumentMoniker": "C:\\Users\\Joswin\\Downloads\\HMS_Proj\\HMS_Frontend\\hms_frontend\\src\\pages\\AddAppointment.js",
+              "RelativeDocumentMoniker": "src\\pages\\AddAppointment.js",
+              "ToolTip": "C:\\Users\\Joswin\\Downloads\\HMS_Proj\\HMS_Frontend\\hms_frontend\\src\\pages\\AddAppointment.js",
+              "RelativeToolTip": "src\\pages\\AddAppointment.js",
+              "ViewState": "AgIAANoBAAAAAAAAAAAowNwBAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-12T18:01:13.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Profile.js",
+              "DocumentMoniker": "C:\\Users\\Joswin\\Downloads\\HMS_Proj\\HMS_Frontend\\hms_frontend\\src\\pages\\Profile.js",
+              "RelativeDocumentMoniker": "src\\pages\\Profile.js",
+              "ToolTip": "C:\\Users\\Joswin\\Downloads\\HMS_Proj\\HMS_Frontend\\hms_frontend\\src\\pages\\Profile.js",
+              "RelativeToolTip": "src\\pages\\Profile.js",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvyEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-12T18:01:36.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddPatient.js",
+              "DocumentMoniker": "C:\\Users\\Joswin\\Downloads\\HMS_Proj\\HMS_Frontend\\hms_frontend\\src\\pages\\AddPatient.js",
+              "RelativeDocumentMoniker": "src\\pages\\AddPatient.js",
+              "ToolTip": "C:\\Users\\Joswin\\Downloads\\HMS_Proj\\HMS_Frontend\\hms_frontend\\src\\pages\\AddPatient.js",
+              "RelativeToolTip": "src\\pages\\AddPatient.js",
+              "ViewState": "AgIAAFMAAAAAAAAAAADwv2sAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-12T17:59:40.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
